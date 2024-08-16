@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Varunbtech9682.github.io/shopping-cart-react/",
+  "homepage": "https://Varunbtech9682.github.io/Ecommerce-React-App-main",
   "name": "first-project",
   "version": "0.1.0",
   "private": true,
@@ -43,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "vite": "^5.4.0"
   }
 }
