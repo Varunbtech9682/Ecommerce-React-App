@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-React-App/static/css/main.f919b93c.css",
+    "main.js": "/Ecommerce-React-App/static/js/main.f96ecc58.js",
+    "static/media/Banner.png": "/Ecommerce-React-App/static/media/Banner.62984c569d345883a59a.png",
+    "static/media/revicons.eot": "/Ecommerce-React-App/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Ecommerce-React-App/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Ecommerce-React-App/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Ecommerce-React-App/index.html",
+    "main.f919b93c.css.map": "/Ecommerce-React-App/static/css/main.f919b93c.css.map",
+    "main.f96ecc58.js.map": "/Ecommerce-React-App/static/js/main.f96ecc58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f919b93c.css",
+    "static/js/main.f96ecc58.js"
+  ]
+}
