@@ -3,11 +3,6 @@
   <strong style="vertical-align: middle;">Shopping Cart</strong>
 </p>
 
-
-
-
-
-
 ![Shopping Cart Display](public/preview.png)
 ![Shopping Cart Display](public/preview1.png)
 ![Shopping Cart Display](public/preview2.png)
