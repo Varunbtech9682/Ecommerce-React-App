@@ -1,7 +1,11 @@
-<div style="display: flex; align-items: center;">
-  <img src="public/trolley.png" height="50px" width="50px" alt="Trolley Icon"> 
-  <h1 style="margin-left: 10px;">Shopping Cart</h1> 
-</div>
+<p>
+  <img src="public/trolley.png" height="25" width="25" style="vertical-align: middle; margin-right: 10px;">
+  <strong style="vertical-align: middle;">Shopping Cart</strong>
+</p>
+
+
+
+
 
 
 ![Shopping Cart Display](public/preview.png)
