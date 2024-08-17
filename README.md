@@ -1,6 +1,9 @@
 ![Shopping Cart Display](public/preview.png)
 ![Shopping Cart Display](public/preview1.png)
-(public/preview2.png)
+![Shopping Cart Display](public/preview2.png)
+![Shopping Cart Display](public/preview3.png)
+![Shopping Cart Display](public/preview4.png)
+![Shopping Cart Display](public/preview5.png)
 
 
 # Getting Started with Create React App
