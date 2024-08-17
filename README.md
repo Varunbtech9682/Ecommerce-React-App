@@ -1,4 +1,4 @@
-<h1>Shopping Cart</h1>
+<img src="public/trolley.png" height="50px" width="50px"> <h1>Shopping Cart</h1>
 
 ![Shopping Cart Display](public/preview.png)
 ![Shopping Cart Display](public/preview1.png)
