@@ -1,3 +1,5 @@
+<h1>Shopping Cart</h1>
+
 ![Shopping Cart Display](public/preview.png)
 ![Shopping Cart Display](public/preview1.png)
 ![Shopping Cart Display](public/preview2.png)
